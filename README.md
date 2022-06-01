@@ -1,10 +1,10 @@
-<strong>Hi, I'm Bruno<strong> 😄
+<strong>Hi, I'm Bruno</strong> 😄
 
 <hr />
 
-About me:
+<strong>About me:</strong>
 
-I'm a software developer since 2016
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="40" height="40" /> I'm a software developer since 2016
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <!--
 **brunosuza/brunosuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
