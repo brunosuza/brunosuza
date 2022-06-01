@@ -13,4 +13,6 @@
 
 **Languages and tools:**
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 **🚀 let's encode!**
