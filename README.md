@@ -4,7 +4,7 @@
 
 <strong>About me:</strong>
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="30" height="30" /> I'm a software developer since 2016
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> I'm a software developer since 2016
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <!--
 **brunosuza/brunosuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
