@@ -3,7 +3,6 @@
 <hr />
 
 <strong>About me:</strong>
-![javascript](https://user-images.githubusercontent.com/13911181/171514661-bf06aa22-38f6-4915-b64d-3428b73f4850.png)
 
 - 💻 I'm software developer since 2016
 - <img align="left" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">Working with Java | Javascript | PL-Sql
