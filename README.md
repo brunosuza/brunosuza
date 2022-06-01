@@ -13,7 +13,7 @@
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
-<img align="left" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
+<img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-**🚀 let's encode!**
+<p>**🚀 let's encode!**</p>
