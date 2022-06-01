@@ -12,3 +12,5 @@
 - 📫  How to reach me: [linkedIn](https://www.linkedin.com/in/brunosuza/), [instagram](https://www.instagram.com/brunosuza/)
 
 **Languages and tools:**
+
+**🚀 let's encode!**
