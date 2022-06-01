@@ -6,7 +6,6 @@
 
 <ul dir="auto">
   <li>
-    ::marker
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> I'm a software developer since 2016
     </li>
 </ul>
