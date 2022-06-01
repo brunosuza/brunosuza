@@ -1,4 +1,4 @@
-Hi, I'm Bruno 😄
+<strong>Hi, I'm Bruno<strong> 😄
 
 <hr />
 
