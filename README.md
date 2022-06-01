@@ -4,23 +4,10 @@
 
 <strong>About me:</strong>
 
-<ul dir="auto">
-  <li>
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> I'm a software developer since 2016
-    </li>
-</ul>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-<!--
-**brunosuza/brunosuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Philips Clinical Informatics
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm software developer since 2016
+- <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png"> Working with Java | Javascript | PL-Sql
+- 🚀 I'm a educator and content creator at [Rocketseat](https://github.com/Rocketseat)
+- <img  height="16" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/microsoft.png"> I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003552?fullName=Jakeliny%20Gracielly)
+- 📝 I'm graduated in CyberSecurity
+- ✨ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/jakeliny)
+- 📫 How to reach me: [my site](https://jakeliny.com.br), [linkedIn](https://www.linkedin.com/in/jakelinygracielly/), [instagram](https://www.instagram.com/jakeliny.gracielly/) or [twitter](https://twitter.com/Jakelinygr)
