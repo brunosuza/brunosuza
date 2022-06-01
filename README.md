@@ -16,4 +16,5 @@
 <img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
 <img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<p>**🚀 let's encode!**</p>
+<br />
+**🚀 let's encode!**
