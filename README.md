@@ -9,7 +9,7 @@
 - 🚀  I work at [Philips](https://github.com/philips-emr)
 - ☕ I'm a [Java OCAJ7](https://www.youracclaim.com/badges/f17a6148-9f13-42c5-8c85-1823c953b83c/linked_in_profile)
 - 📝  I'm graduated in Information Systems
-- 📫  How to reach me: [linkedIn](https://www.linkedin.com/in/brunosuza/), [instagram](https://www.instagram.com/brunosuza/)
+- 📫  How to reach me: [linkedIn](https://www.linkedin.com/in/brunorobertosouza//), [instagram](https://www.instagram.com/brunosuza/)
 
 **Languages and tools:**
 
